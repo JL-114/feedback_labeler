@@ -1,0 +1,15 @@
+comment_id,label,rating,comment,dress_name,color,size
+C-001,fit & sizing,2,It was too big.,Not Specified,Not Specified,Not Specified
+C-002,delivery & logistics,1,It came late.,Not Specified,Not Specified,Not Specified
+C-003,delivery & logistics,5,it came super fast,Not Specified,Not Specified,Not Specified
+C-004,garment condition,2,It came dirty.,Not Specified,Not Specified,Not Specified
+C-005,unclear,5,Fine,Not Specified,Not Specified,Not Specified
+C-006,fit & sizing,3,too short.,Not Specified,Not Specified,Not Specified
+C-007,delivery & logistics,5,Amazing service!,Not Specified,Not Specified,Not Specified
+C-008,fit & sizing,5,Amazing service and the dress fit perfectly!,Not Specified,Not Specified,Not Specified
+C-009,delivery & logistics,5,The dress came early than expected.,Not Specified,Not Specified,Not Specified
+C-010,pricing,3,"The  price of the rental was too expensive for the dress, would not use again.",Not Specified,Not Specified,Not Specified
+C-011,style & inventory,2,This dress was not available for my date.,Not Specified,Not Specified,Not Specified
+C-012,style & inventory,3,The variety of dress choices could have been better.,Not Specified,Not Specified,Not Specified
+C-013,garment condition,5,Amazing quality!,Not Specified,Not Specified,Not Specified
+C-014,delivery & logistics,1,It came super late.,Not Specified,Not Specified,Not Specified
